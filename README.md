@@ -9,3 +9,5 @@
 ```
 
 https://darkgreenwu.github.io/JDStore/
+
+详情页:https://darkgreenwu.github.io/JDStore/datails.html
